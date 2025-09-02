@@ -44,8 +44,8 @@ import { Link } from 'react-router-dom';
                                     </a>
                                 </li>
                                 <li>
-                                    <Link to="/" className="hover:underline">
-                                        Discord
+                                    <Link to="https://github.com/harsh81r" className="hover:underline">
+                                        github
                                     </Link>
                                 </li>
                             </ul>
@@ -53,11 +53,7 @@ import { Link } from 'react-router-dom';
                         <div>
                             <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Legal</h2>
                             <ul className="text-gray-500 font-medium">
-                                <li className="mb-4">
-                                    <Link to="#" className="hover:underline">
-                                        Privacy Policy
-                                    </Link>
-                                </li>
+                              
                                 <li>
                                     
                                 </li>
@@ -69,7 +65,7 @@ import { Link } from 'react-router-dom';
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 202
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
+                        <a href="https://github.com/harsh81r" className="hover:underline">
                             Harsh khare
                         </a>
                        
@@ -159,3 +155,4 @@ import { Link } from 'react-router-dom';
 }
 
 export default Footer
+
